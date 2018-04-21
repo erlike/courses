@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  teacher: one
+  class_room: one
+  grid: one
+  discipline: one
+  status: 1
+
+two:
+  teacher: two
+  class_room: two
+  grid: two
+  discipline: two
+  status: 1

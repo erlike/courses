@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  student: one
+  class_room: one
+  roll_number: 1
+  average: 1.5
+  frequency: 1.5
+  faults: 1
+  final_result: 1
+  status: 1
+
+two:
+  student: two
+  class_room: two
+  roll_number: 1
+  average: 1.5
+  frequency: 1.5
+  faults: 1
+  final_result: 1
+  status: 1

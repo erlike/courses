@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  type_course: one
+  model_certificate: one
+  number_modules: 1
+  average: 1.5
+  frequency: 1.5
+  status: 1
+
+two:
+  name: MyString
+  type_course: two
+  model_certificate: two
+  number_modules: 1
+  average: 1.5
+  frequency: 1.5
+  status: 1
